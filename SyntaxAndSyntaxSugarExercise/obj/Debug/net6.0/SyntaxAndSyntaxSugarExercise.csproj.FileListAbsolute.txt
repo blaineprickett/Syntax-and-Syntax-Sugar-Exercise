@@ -1,0 +1,5 @@
+/Users/blaineprickett/Library/CloudStorage/OneDrive-SODEXO/Code/TrueCoders/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.csproj.AssemblyReference.cache
+/Users/blaineprickett/Library/CloudStorage/OneDrive-SODEXO/Code/TrueCoders/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blaineprickett/Library/CloudStorage/OneDrive-SODEXO/Code/TrueCoders/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.AssemblyInfoInputs.cache
+/Users/blaineprickett/Library/CloudStorage/OneDrive-SODEXO/Code/TrueCoders/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.AssemblyInfo.cs
+/Users/blaineprickett/Library/CloudStorage/OneDrive-SODEXO/Code/TrueCoders/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.csproj.CoreCompileInputs.cache
